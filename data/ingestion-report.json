@@ -1,0 +1,28 @@
+{
+  "runAt": "2026-09-17T15:04:45.742Z",
+  "status": "completed",
+  "mode": "write",
+  "provider": "OpenStreetMap Overpass",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "bbox": "31.73,35.16,31.83,35.27",
+  "recordsSeen": 5347,
+  "candidates": 300,
+  "imported": 0,
+  "updated": 300,
+  "existingPlaceCount": 288,
+  "resultingPlaceCount": 288,
+  "imageLookup": "Wikimedia Commons exact-name candidates",
+  "imagesFound": 4,
+  "categories": {
+    "Culture": 10,
+    "History": 13,
+    "Religious sites": 57,
+    "Restaurants": 66,
+    "Viewpoints": 4,
+    "Transport": 114,
+    "Markets": 24,
+    "Museums": 10,
+    "Parks & public spaces": 2
+  },
+  "note": "Imported descriptions are conservative classifications from tagged OpenStreetMap records. No prices, ratings, reviews or historical claims are inferred. Landmark photographs are only attached to non-transport/non-restaurant records when Wikimedia metadata matched."
+}
