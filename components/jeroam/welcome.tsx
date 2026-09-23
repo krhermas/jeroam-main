@@ -340,7 +340,7 @@ export function Start() {
             marginBottom: "12px",
           }}
         >
-          <span>{isArabic ? "ابدأ التخطيط المخصص بالذكاء الاصطناعي ✨" : isHebrew ? "התחלת תכנון מותאם ב-AI ✨" : "Start AI Trip Planner ✨"}</span>
+          <span>{isArabic ? "ابدأ التخطيط المخصص بالذكاء الاصطناعي" : isHebrew ? "התחלת תכנון מותאם ב-AI" : "Start AI Trip Planner"}</span>
           <ArrowRight size={18} strokeWidth={2.5} />
         </Link>
 

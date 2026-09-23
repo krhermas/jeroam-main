@@ -288,7 +288,7 @@ export function Header(){
         }}
       >
         <Sparkles size={13}/>
-        <span>{isArabic?"تخطيط ذكي ✨":isHebrew?"תכנון AI ✨":"AI Planner ✨"}</span>
+        <span>{isArabic?"تخطيط ذكي":isHebrew?"תכנון AI":"AI Planner"}</span>
       </Link>
 
       {/* Nearby Hotels Button */}
